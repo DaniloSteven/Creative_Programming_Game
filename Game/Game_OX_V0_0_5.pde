@@ -4020,7 +4020,7 @@ rce=(int)random(0, 255);
   triangle(30, 0, 30, 30, 50, 20);
 
   
-////hitbox
+////hitbox test
 /*
   strokeWeight(3);
   stroke(#000000);

@@ -1,1 +1,1 @@
-Manu Screen design and config data
+Menu early version Screen design and config data
